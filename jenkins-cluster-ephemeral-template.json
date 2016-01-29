@@ -396,7 +396,7 @@
         {
             "name": "GIT_URI",
             "description": "Git Repository",
-            "value": "https://github.com/spalmer-redhat/sabre1041/ose-jenkins-cluster.git"
+            "value": "https://github.com/spalmer-redhat/sabre1041/ose-jenkins-cluster"
         },
         {
             "name": "GIT_REF",
